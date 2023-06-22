@@ -1,2 +1,2 @@
-# intel_image
+# Intel Image classification
 Multiclass classification projects
