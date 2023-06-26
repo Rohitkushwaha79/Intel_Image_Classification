@@ -1,6 +1,6 @@
 # Intel Image Classification
+![Intel Image Classification](https://github.com/Rohitkushwaha79/Intel_Image_Classification/assets/118690283/e162f7a3-699d-4e4a-ae4c-31cd32b33733)
 
-![Intel Image Classification](project_image.jpg)
 
 This repository contains the code and resources for the Intel Image Classification project. The project aims to develop a deep learning model for accurately classifying images from the Intel Image Classification dataset.
 
