@@ -8,7 +8,7 @@ This repository contains the code and resources for the Intel Image Classificati
 
 The Intel Image Classification dataset is a collection of images representing various natural scenes, including buildings, forests, mountains, glaciers, and street views. The dataset is divided into training and testing sets, with labeled images for different scene categories.
 
-The dataset can be obtained from <a href="[https://pjreddie.com/media/files/yolov3.weights](https://storage.googleapis.com/kaggle-data-sets/111880/269359/upload/seg_pred.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20230626%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230626T072038Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=388f76cc0a2706264aad213e61db9b23947e7e062d6a54674e6c9183b08508a7201d11511d6b1ad101eb016097f0dfdfd667d62dc928ea5a0637546737101d4fce1f3ad3deb7b1864faa3c5c24bc242675d8ed7beef5bc8c449bbf20e99038c3a68a6ad94c607e4271a07e6c809ada2625efc10f1f596e2cb17bb4a4b4ae19155bfd83d60ca6106bfe1c10eff4a5a1e67421c10425106a95bb37132cdafe8b7081cd91ca50e88b955ab7e543e22b94d147f91aab23b391d536c204612ff40713b61751f032d061d6324ed63e0f9cdd01051fa3b0cb13c7f4441d4c9a74876a76bf07cca99b2f2dcad2d609b436f8bd00787e215d1b6b9b851e91bb205838f7c3)">link-to-dataset</a> Please refer to the dataset's documentation for more details on its structure and usage.
+The dataset can be obtained from https://www.kaggle.com/datasets/puneet6060/intel-image-classification Please refer to the dataset's documentation for more details on its structure and usage.
 
 ## Installation
 
